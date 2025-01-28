@@ -28,13 +28,7 @@ A web app offering real-time traffic solutions, combining AI-powered assistance,
 ### 🏋️ Fitness Buddy App  
 A platform to connect users with shared fitness goals and track workout progress with data visualization.  
 **Tech Stack:** MERN, Recharts  
-🔗 [Repository](#) | 🌐 [Live Demo](#)
-
-### 🎟️ Decentralized Lottery System  
-A blockchain-based decentralized lottery funding system ensuring fairness and transparency.  
-**Tech Stack:** Solidity, Web3.js  
-🔗 [Repository](#) | 🌐 [Live Demo](#)
-
+🔗 [Repository](https://spontaneous-clafoutis-e0ec46.netlify.app/) | 🌐 [Live Demo](#)
 ---
 
 ## 🌟 **GitHub Stats**

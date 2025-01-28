@@ -25,6 +25,7 @@ A web app offering real-time traffic solutions, combining AI-powered assistance,
 **Tech Stack:** MERN  
 🔗 [Repository](https://github.com/SinersSins/Snack-and-Steer) | 🌐 [Live Demo](https://snack-steer.onrender.com/)
 
+
 ### 🏋️ Fitness Buddy App  
 A platform to connect users with shared fitness goals and track workout progress with data visualization.  
 **Tech Stack:** MERN, Recharts  

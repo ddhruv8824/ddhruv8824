@@ -23,12 +23,12 @@
 ### 🚦 Traffic Relief Dashboard  
 A web app offering real-time traffic solutions, combining AI-powered assistance, delivery services, and transportation options.  
 **Tech Stack:** MERN  
-🔗 [Repository](#) | 🌐 [Live Demo](#)
+🔗 [Repository](https://github.com/SinersSins/Snack-and-Steer) | 🌐 [Live Demo](https://snack-steer.onrender.com/)
 
 ### 🏋️ Fitness Buddy App  
 A platform to connect users with shared fitness goals and track workout progress with data visualization.  
 **Tech Stack:** MERN, Recharts  
-🔗 [Repository](https://spontaneous-clafoutis-e0ec46.netlify.app/) | 🌐 [Live Demo](#)
+🔗 [Repository](https://github.com/ddhruv8824/Fitness_Buddy) | 🌐 [Live Demo](https://spontaneous-clafoutis-e0ec46.netlify.app/)
 ---
 
 ## 🌟 **GitHub Stats**
@@ -39,6 +39,6 @@ A platform to connect users with shared fitness goals and track workout progress
 ---
 
 ## 📫 **Let's Connect!**
-🌐 [Portfolio](#)  
-💼 [LinkedIn](#)  
-📧 [Email](#)  
+🌐 [Portfolio](https://dhruvportfolioo.netlify.app/)  
+💼 [LinkedIn](https://www.linkedin.com/in/dhruv-suthar-57512b232/)  
+📧 [Email](ddhruv8824@gmail.com)  

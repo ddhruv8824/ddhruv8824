@@ -17,21 +17,6 @@
 - **Tools:** Node.js, MongoDB, Git, VS Code, Recharts  
 
 ---
-
-## 📌 **Pinned Projects**
-
-### 🚦 Traffic Relief Dashboard  
-A web app offering real-time traffic solutions, combining AI-powered assistance, delivery services, and transportation options.  
-**Tech Stack:** MERN  
-🔗 [Repository](https://github.com/SinersSins/Snack-and-Steer) | 🌐 [Live Demo](https://snack-steer.onrender.com/)
-
-
-### 🏋️ Fitness Buddy App  
-A platform to connect users with shared fitness goals and track workout progress with data visualization.  
-**Tech Stack:** MERN, Recharts  
-🔗 [Repository](https://github.com/ddhruv8824/Fitness_Buddy) | 🌐 [Live Demo](https://spontaneous-clafoutis-e0ec46.netlify.app/)
----
-
 ## 🌟 **GitHub Stats**
 
 ![Dhruv's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ddhruv8824&show_icons=true&theme=radical)  

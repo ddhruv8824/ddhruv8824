@@ -1,5 +1,5 @@
 # Hi there, I'm Dhruv Suthar! 👋  
-🚀 **Full Stack Developer** | 🌟 **Aspiring Web3 Enthusiast**
+🚀 **MERN Stack Developer** 
 
 ---
 

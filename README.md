@@ -25,6 +25,6 @@
 ---
 
 ## 📫 **Let's Connect!**
-🌐 [Portfolio](https://dhruvportfolioo.netlify.app/)  
+🌐 [Portfolio](https://dhruvporfolioo.netlify.app/)  
 💼 [LinkedIn](https://www.linkedin.com/in/dhruv-suthar-57512b232/)  
 📧 [Email](ddhruv8824@gmail.com)  

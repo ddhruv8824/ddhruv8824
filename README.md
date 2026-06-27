@@ -1,5 +1,5 @@
 # Hi there, I'm Dhruv Suthar! 👋  
-🚀 **MERN Stack Developer** 
+Software Engineer
 
 ---
 
